@@ -81,4 +81,4 @@ while True:
     plt.xlabel("Round")
     plt.ylabel("winnings")
     plt.show()
-    print()
+    
